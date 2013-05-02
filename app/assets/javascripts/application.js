@@ -3,6 +3,6 @@
 //= require ember
 //= require ember-data
 //= require_self
-//= require ember_app
+//= require app
 
-EmberApp = Ember.Application.create();
+App = Ember.Application.create();

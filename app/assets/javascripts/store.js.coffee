@@ -1,3 +1,3 @@
-EmberApp.Store = DS.Store.extend
+App.Store = DS.Store.extend
   revision: 11
   adapter: DS.RESTAdapter.create
